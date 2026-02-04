@@ -16,10 +16,11 @@ Use the numpy.linalg.inv() function to calculate the inverse of the matrix.
 Display the result using the print() function. 
 
 ## Program:
-**import numpy as np
-a = np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
-inverse= np.linalg.inv(a)
-print(inverse)**
+
+import numpy as np<br>
+a = np.array([[1,0,3],[-1,2,-2],[2,3,-1]])<br>
+inverse= np.linalg.inv(a)<br>
+print(inverse)<br>
 
 
 ## Output:
